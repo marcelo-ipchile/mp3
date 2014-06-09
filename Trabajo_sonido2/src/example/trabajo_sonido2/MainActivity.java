@@ -21,7 +21,7 @@ public class MainActivity extends Activity { // hola
 	
 	
 
-
+//cambio hecho por herman
 	
 	MediaPlayer mp;
 	Button btnplay; // como estas
