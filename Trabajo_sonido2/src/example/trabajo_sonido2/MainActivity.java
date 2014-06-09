@@ -24,7 +24,7 @@ public class MainActivity extends Activity { // hola
 
 	
 	MediaPlayer mp;
-	Button btnplay;
+	Button btnplay; // como estas
 	int pos=0;
 	
 	
