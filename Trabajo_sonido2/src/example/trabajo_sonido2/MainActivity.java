@@ -17,7 +17,7 @@ import android.widget.Button;
 
 
 
-public class MainActivity extends Activity {
+public class MainActivity extends Activity { // hola
 	
 	
 
